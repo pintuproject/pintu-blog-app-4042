@@ -1,0 +1,13 @@
+ *{
+  padding: 0;
+  margin:0
+ }
+ .card-item{
+  margin-top: 20px;
+  margin-left: 420px;
+  margin-right: 10px;
+ }
+ .comment{
+    display: flex;
+    justify-content:space-evenly;
+ }
